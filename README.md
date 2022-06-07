@@ -9,7 +9,7 @@
             Claim your badge and showcase them with pride. Let us inspire more folks !
             </p>
             <div align='center'>
-            <img src="https://beta.aviyel.com/assets/uploads/rewards/project_rewards/test2-ankit_1887/doubles/512/share.png" alt="Test2-ankit Badges" />
+            <img src="https://beta.aviyel.com/assets/uploads/rewards/share/project/1887/512/share.png" alt="Test2-ankit Badges" />
             </div>
             <div>
               <a href="https://beta.aviyel.com/projects/1887/test2-ankit/rewards">
