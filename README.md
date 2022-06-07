@@ -20,5 +20,5 @@
  
  ## Leaderboard
  <div>
-<img src="https://beta.aviyel.com/api/rewards/v1/reward/445/leaderboard.svg" alt="Test-reward Leaderboard" />         
+<img src="https://beta.aviyel.com/api/rewards/v1/reward/1887/leaderboard.svg" alt="Test-reward Leaderboard" />         
 </div> 
