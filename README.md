@@ -25,5 +25,5 @@
                         
 ## User Share test
 <div>
-<img src="https://beta.aviyel.com/assets/uploads/rewards/share/user/1699/1887/512/share.png" alt="Test-reward share" />
+<img src="https://beta.aviyel.com/assets/uploads/rewards/share/user/1699/1887/share.png" alt="Test-reward share" />
 </div>
