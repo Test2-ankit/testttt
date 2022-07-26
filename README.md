@@ -23,7 +23,7 @@
 <img src="https://beta.aviyel.com/api/rewards/v1/reward/1887/leaderboard.svg" alt="Test-reward Leaderboard" />         
 </div> 
                         
-## User Share test
+## User Share image
 <div>
 <img src="https://beta.aviyel.com/assets/uploads/rewards/share/user/1699/1887/share.png" alt="Test-reward share" />
 </div>
